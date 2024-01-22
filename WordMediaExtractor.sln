@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordMediaExtractor", "WordMediaExtractor\WordMediaExtractor.csproj", "{DBED59DC-F98A-40CA-9A42-A5CAD58B3AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBED59DC-F98A-40CA-9A42-A5CAD58B3AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBED59DC-F98A-40CA-9A42-A5CAD58B3AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBED59DC-F98A-40CA-9A42-A5CAD58B3AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBED59DC-F98A-40CA-9A42-A5CAD58B3AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423C76E9-E722-44AD-B92E-289FA794B2DA}
+	EndGlobalSection
+EndGlobal
