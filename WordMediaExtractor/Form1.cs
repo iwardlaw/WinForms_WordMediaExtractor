@@ -138,6 +138,9 @@ public partial class Form1 : Form
 						if(target.StartsWith('/')) {
 							target = target[1..];
 						}
+						if(!target.StartsWith("word")) {
+							target = "word/" + target;
+						}
 						relations[id] = target;
 					}
 				}

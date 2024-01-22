@@ -217,12 +217,7 @@ partial class Form1
 	private TextBox tbxOutputNamePrefix;
 	private GroupBox gbxOutputRenaming;
 	private GroupBox gbxMediaTypes;
-	private TextBox textBox3;
-	private Button button2;
 	private OpenFileDialog diaOpenSrcDoc;
-	private CheckBox cbxMediaTypePowerPoint;
-	private CheckBox cbxMediatypeExel;
-	private CheckBox checkBox2;
 	private CheckBox cbxMediaTypePNG;
 	private Button btnExtractMedia;
 	private CheckBox cbxMediaTypeJPG;
